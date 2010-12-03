@@ -1,0 +1,15 @@
+--- 
+javascripts: 
+- base: 
+  - controls
+  - coda
+  - dragdrop
+  - jquery-1.3.min
+  - prototype
+  - effects
+  - rails
+  - application
+stylesheets: 
+- base: 
+  - new1
+  - master

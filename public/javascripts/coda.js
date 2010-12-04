@@ -30,7 +30,7 @@ $(function () {
 					bottom: 20,
 					left: -76,
 					display: 'block' // brings the popup back in to view
-				})
+				});
 
 				// (we're using chaining on the popup) now animate it's opacity and position
 				.animate({
